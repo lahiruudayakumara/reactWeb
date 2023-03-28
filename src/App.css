@@ -55,6 +55,7 @@ header ul li a:hover {
 .HeaderIcon {
   margin-left: 20px;
   transition: 0.5s;
+  cursor: pointer;
 }
 
 .navbar-items-icon {
