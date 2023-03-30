@@ -28,9 +28,7 @@ const Header = () => {
                     <li><Link to='/blog'>Blog</Link></li>
                     <li><Link to='/portfolio'>Protifolio</Link></li>
                     <li><Link to='/shop'>Shop</Link></li>
-                    <li>
-                        <Link to='/contact'>Contact</Link>
-                    </li>
+                    <li><Link to='/contact'>Contact</Link></li>
                     <li className='icon'>
                         <SearchOutlinedIcon className='HeaderIcon'/>
                         <WorkIcon className='HeaderIcon'/>

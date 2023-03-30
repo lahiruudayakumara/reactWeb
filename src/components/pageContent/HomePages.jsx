@@ -1,5 +1,6 @@
 import React from 'react'
 import About from '../about/About'
+import Footer from '../footer/Footer'
 import Branding from '../home/Branding'
 import Home from '../home/Home'
 import Servicess from '../servicess/Servicess'
@@ -18,7 +19,7 @@ const HomePages = () => {
       <Wrapper/>
       <Skill/>
       <WrapperOne/>
-      <Work/>
+      <Footer/>
     </>
   )
 }
